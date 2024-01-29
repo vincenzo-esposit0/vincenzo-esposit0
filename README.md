@@ -7,7 +7,7 @@
 - 👀 I am interested in the world of technology, Crypto and everything related to personal growth (I love challenges).
 - 🎓 In 2022 I got the Bachelor's degree in Computer Science at @ University of Salerno.
 - 💞️ I am looking to collaborate on projects regarding Crypto currencies.
-- 🥅 2022 Goals: Learn as much as I can
+- 🥅 2024 Goals: Learn as much as I can
 - ⚡ Fun facts: I love swim and the crypto, especially BTC 🤑. 
 
 #### Connect with me 
