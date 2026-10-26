@@ -1,6 +1,6 @@
 ### Hello everyone, I'm Vincenzo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-#### I'm a FT @ University of Salerno
+#### I'm a technical officer @ University of Salerno
 
 #### About Me
 - Salerno, Campania, Italy
