@@ -1,5 +1,5 @@
 <h2 align="center">Vincenzo Esposito</h2>
-<p align="center"><b>Software Engineer · Cybersecurity Specialist · Penetration Tester</b><br>
+<p align="center"><b>Software Engineer · Cybersecurity Specialist</b><br>
 Technical Officer at the University of Salerno · Salerno, Italy</p>
 
 <p align="center">
