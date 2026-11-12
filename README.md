@@ -3,7 +3,7 @@
 Technical Officer at the University of Salerno · Salerno, Italy</p>
 
 <p align="center">
-  <a href="https://vincenzo-esposit0.github.io/">Website</a> ·
+  <a href="https://esposito-vincenzo.it/">Website</a> ·
   <a href="https://www.linkedin.com/in/vincenzo-e">LinkedIn</a> ·
   <a href="mailto:esposito.vincenzo.it@gmail.com">Email</a>
 </p>
@@ -29,7 +29,7 @@ $ whoami
 |---|---|---|
 | [**Web Machine (N7)**](https://github.com/vincenzo-esposit0/Web_Machine_N7) | End-to-end ethical penetration test: scoping, discovery, vulnerability mapping, exploitation and a full written report. | Kali Linux · Nmap · Nessus · DirBuster |
 | [**dryflash**](https://github.com/vincenzo-esposit0/dryflash-FZ) · [live](https://app.dryflash.workers.dev/) | Security tooling: an open-source STM32WB55 emulator that boots real Flipper Zero firmware in the browser and flags crashes, faults and hangs. | Rust · WebAssembly · TypeScript |
-| [**Flipper Zero Firmware Hub**](https://github.com/vincenzo-esposit0/flipper-zero-firmware-hub) · [live](https://vincenzo-esposit0.github.io/flipper-zero-firmware-hub/) | Educational catalogue of Flipper Zero firmware and tools, with notes on responsible and legal use. | React · TypeScript · Tailwind |
+| [**Flipper Zero Firmware Hub**](https://github.com/vincenzo-esposit0/flipper-zero-firmware-hub) · [live](https://esposito-vincenzo.it/flipper-zero-firmware-hub/) | Educational catalogue of Flipper Zero firmware and tools, with notes on responsible and legal use. | React · TypeScript · Tailwind |
 | [**NewLang Compiler**](https://github.com/vincenzo-esposit0/NewLang_Compiler) | A full compiler to C: parsing, scoping, type checking and code generation. | Java · JFlex · CUP |
 
 ### 📜 Background
